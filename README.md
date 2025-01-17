@@ -8,9 +8,7 @@ CarServ est une application web innovante développée avec Django pour simplifi
 - [Architecture Technique](#architecture-technique)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Contributions](#contributions)
 - [Auteurs](#auteurs)
-- [Licence](#licence)
 
 ---
 
